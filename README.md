@@ -1,39 +1,5 @@
 # Pomly
 
-<p align="center">
-
-![Built for AppSprint 2026](https://img.shields.io/badge/Built%20for-AppSprint%202026-7C3AED?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hackathon-AppSprint%202026-blueviolet?style=for-the-badge)
-
-</p>
-
-<p align="center">
-  A local-first focus timer, flashcard companion, and study activity tracker.
-</p>
-
----
-
-## Team Information
-
-### Team Name
-
-meow
-
-### Members
-
-| Name | Role |
-|---|---|
-| `Nandana Rajan` | Developer |
-| `Sandra. BA` | Designer |
-
-
-### Challenge Track
-
-**EduTech**
-
----
-
-## Problem Statement
 
 Students often manage focused study sessions, revision material, tasks, and progress in separate tools. This makes it difficult to maintain a consistent routine, understand activity over time, and revise material efficiently. Many study tools also depend on a network connection or do not provide a simple workflow for turning notes into revision cards.
 
@@ -251,10 +217,4 @@ This project follows the AppSprint Solution Challenge 2026 repository requiremen
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
----
 
-## AppSprint Solution Challenge 2026
-
-Built during **AppSprint Solution Challenge 2026**.
-
-Organized by **App Development IG · muLearn LBSITW**.
