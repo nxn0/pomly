@@ -1,6 +1,7 @@
 # Pomly
 
 Pomly is a local-first study companion for focused work, flashcard review, and study planning. It combines a configurable focus timer, locally generated flashcards, daily tasks, streaks, and weekly goals in one Flutter application.
+Pomly brings focus sessions, revision, and study planning together without requiring an account or network connection. Study data stays on-device, and cards can be generated from pasted notes or selectable text in PDFs.
 
 ## Features
 
@@ -20,6 +21,15 @@ Pomly has no sign-in, server, or external AI service. App data is stored locally
 - A configured Flutter target supported by the installed SDK.
 
 ## Run Locally
+
+## Demo Video
+
+https://youtube.com/shorts/lDWhj_KxAJg?si=vBVTsw1D22D5uYe3
+
+
+## Download
+
+See the [GitHub Releases](https://github.com/nxn0/pomly/releases) page for available builds.
 
 ```bash
 git clone https://github.com/nxn0/pomly.git
